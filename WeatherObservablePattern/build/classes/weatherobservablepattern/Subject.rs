@@ -1,0 +1,2 @@
+weatherobservablepattern.WeatherStation
+weatherobservablepattern.Subject
